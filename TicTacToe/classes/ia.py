@@ -1,4 +1,3 @@
-import tkinter.messagebox
 from random import randint
 
 
